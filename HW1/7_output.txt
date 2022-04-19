@@ -1,0 +1,3 @@
+AB*C+D-
+AB+CD+*
+AB+CD*-
